@@ -1,4 +1,3 @@
-{obj/
+obj/
 *csproj
 bin/
-}
