@@ -1,0 +1,15 @@
+/Users/eugenezvyagin/Desktop/Examples/Examples/001/bin/Debug/net6.0/001
+/Users/eugenezvyagin/Desktop/Examples/Examples/001/bin/Debug/net6.0/001.deps.json
+/Users/eugenezvyagin/Desktop/Examples/Examples/001/bin/Debug/net6.0/001.runtimeconfig.json
+/Users/eugenezvyagin/Desktop/Examples/Examples/001/bin/Debug/net6.0/001.dll
+/Users/eugenezvyagin/Desktop/Examples/Examples/001/bin/Debug/net6.0/001.pdb
+/Users/eugenezvyagin/Desktop/Examples/Examples/001/obj/Debug/net6.0/001.csproj.AssemblyReference.cache
+/Users/eugenezvyagin/Desktop/Examples/Examples/001/obj/Debug/net6.0/001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eugenezvyagin/Desktop/Examples/Examples/001/obj/Debug/net6.0/001.AssemblyInfoInputs.cache
+/Users/eugenezvyagin/Desktop/Examples/Examples/001/obj/Debug/net6.0/001.AssemblyInfo.cs
+/Users/eugenezvyagin/Desktop/Examples/Examples/001/obj/Debug/net6.0/001.csproj.CoreCompileInputs.cache
+/Users/eugenezvyagin/Desktop/Examples/Examples/001/obj/Debug/net6.0/001.dll
+/Users/eugenezvyagin/Desktop/Examples/Examples/001/obj/Debug/net6.0/refint/001.dll
+/Users/eugenezvyagin/Desktop/Examples/Examples/001/obj/Debug/net6.0/001.pdb
+/Users/eugenezvyagin/Desktop/Examples/Examples/001/obj/Debug/net6.0/001.genruntimeconfig.cache
+/Users/eugenezvyagin/Desktop/Examples/Examples/001/obj/Debug/net6.0/ref/001.dll
